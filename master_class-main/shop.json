@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "title": "Protein",
+    "vendor_code": "111",
+    "description": "",
+    "price": 100,
+    "img": "https://main-cdn.sbermegamarket.ru/big1/hlr-system/613/253/103/119/127/600002677605b0.jpeg"
+  },
+  {
+    "id": "2",
+    "title": "BCAA",
+    "vendor_code": "222",
+    "description": "Описание 2",
+    "price": 70,
+    "img": "https://5lb.ru/upload/iblock/67e/q9l3qshpdbkyf6y61ylhrrfinrj98h7v.png"
+  },
+  {
+    "id": "3",
+    "title": "Creatin",
+    "vendor_code": "333",
+    "description": "Описание 3",
+    "price": 85,
+    "img": "https://viking-style.ru/wa-data/public/shop/products/93/10/11093/images/10220/10220.970.png"
+  },
+  {
+    "id": "4",
+    "title": "Pre-workout",
+    "vendor_code": "444e",
+    "description": "Описание 4",
+    "price": 200,
+    "img": "https://ekt-sportline.ru/wa-data/public/shop/products/33/32/3233/images/2326/2326.750x0.png"
+  }
+  ,
+  {
+    "id": "5",
+    "title": "Wristband",
+    "vendor_code": "4445e",
+    "description": "Описание 6",
+    "price": 10,
+    "img": "https://sporttime96.ru/upload/resize_cache/ram.watermark/18a/860/e6d/410581/napulsniki_sportivnye_hvat.jpeg"
+  },
+  {
+    "id": "6",
+    "title": "Belt",
+    "vendor_code": "4446e",
+    "description": "Описание 6",
+    "price": 300,
+    "img": "https://ir-3.ozone.ru/s3/multimedia-v/c1000/6597186547.jpg"
+  }
+]
